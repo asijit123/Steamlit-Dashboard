@@ -84,3 +84,9 @@ watchdog==2.1.2
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+numpy>=1.9.2
+scipy>=0.15.1
+scikit-learn==0.22.1
+matplotlib>=1.4.3
+pandas>=0.19
+streamlit
