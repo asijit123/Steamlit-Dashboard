@@ -8,13 +8,12 @@ base58==2.1.0
 bleach==3.3.0
 blinker==1.4
 cachetools==4.2.2
-certifi==2020.12.5
+certifi==2021.5.30
 cffi==1.14.5
 chardet==4.0.0
 click==7.1.2
 colorama==0.4.4
 cycler==0.10.0
-Cython==0.29.23
 decorator==5.0.9
 defusedxml==0.7.1
 entrypoints==0.3
@@ -60,7 +59,7 @@ pyparsing==2.4.7
 pyrsistent==0.17.3
 python-dateutil==2.8.1
 pytz==2021.1
-pywin32==300
+pywin32==301
 pywinpty==1.1.1
 pyzmq==22.1.0
 requests==2.25.1
